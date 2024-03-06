@@ -2,7 +2,7 @@
 
 #include "resampler.h"
 
-#include "reed-solomon/rs.hpp"
+#include "rs.hpp"
 
 #include <chrono>
 #include <cmath>
