@@ -214,7 +214,7 @@
 			children = (
 				292414FD2B98BA8F003DCAD3 /* GgwavePod.h */,
 				292415262B98BABC003DCAD3 /* ggwave.cpp */,
-				292415232B98BABC003DCAD3 /* include */,
+				292415232B98BABC003DCAD3 /* header */,
 				2924151E2B98BABC003DCAD3 /* reed-solomon */,
 				2924151D2B98BABC003DCAD3 /* resampler.cpp */,
 				2924151C2B98BABC003DCAD3 /* resampler.h */,
@@ -248,12 +248,12 @@
 			path = "reed-solomon";
 			sourceTree = "<group>";
 		};
-		292415232B98BABC003DCAD3 /* include */ = {
+		292415232B98BABC003DCAD3 /* header */ = {
 			isa = PBXGroup;
 			children = (
 				292415242B98BABC003DCAD3 /* ggwave */,
 			);
-			path = include;
+			path = header;
 			sourceTree = "<group>";
 		};
 		292415242B98BABC003DCAD3 /* ggwave */ = {
