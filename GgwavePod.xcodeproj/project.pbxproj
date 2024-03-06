@@ -215,7 +215,10 @@
 				292414FD2B98BA8F003DCAD3 /* GgwavePod.h */,
 				292415262B98BABC003DCAD3 /* ggwave.cpp */,
 				292415232B98BABC003DCAD3 /* header */,
-				2924151E2B98BABC003DCAD3 /* reed-solomon */,
+				2924151F2B98BABC003DCAD3 /* LICENSE */,
+				292415202B98BABC003DCAD3 /* gf.hpp */,
+				292415212B98BABC003DCAD3 /* rs.hpp */,
+				292415222B98BABC003DCAD3 /* poly.hpp */,
 				2924151D2B98BABC003DCAD3 /* resampler.cpp */,
 				2924151C2B98BABC003DCAD3 /* resampler.h */,
 			);
@@ -235,17 +238,6 @@
 				292415182B98BAA5003DCAD3 /* Info.plist */,
 			);
 			path = GgwaveExample;
-			sourceTree = "<group>";
-		};
-		2924151E2B98BABC003DCAD3 /* reed-solomon */ = {
-			isa = PBXGroup;
-			children = (
-				2924151F2B98BABC003DCAD3 /* LICENSE */,
-				292415202B98BABC003DCAD3 /* gf.hpp */,
-				292415212B98BABC003DCAD3 /* rs.hpp */,
-				292415222B98BABC003DCAD3 /* poly.hpp */,
-			);
-			path = "reed-solomon";
 			sourceTree = "<group>";
 		};
 		292415232B98BABC003DCAD3 /* header */ = {
