@@ -8,14 +8,14 @@ Pod::Spec.new do |spec|
 This CocoaPods library helps you perform calculation.
                    DESC
 
-  spec.homepage     = "https://github.com/fahidattique55"
+  spec.homepage     = "https://github.com/fahidattique55/ggwave.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Fahid Attique" => "fahidattique55@gmail.com" }
 
   spec.ios.deployment_target = "14.0"
   spec.swift_version = "5.0"
 
-  spec.source        = { :git => "https://github.com/fahidattique55", :tag => "#{spec.version}" }
+  spec.source        = { :git => "https://github.com/fahidattique55/ggwave.git", :tag => "#{spec.version}" }
   spec.source_files  = "GgwavePod/**/*.{swift,h,m,c,cc,mm,cpp,hpp}"
 
 end
