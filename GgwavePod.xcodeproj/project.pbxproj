@@ -214,7 +214,7 @@
 			children = (
 				292414FD2B98BA8F003DCAD3 /* GgwavePod.h */,
 				292415262B98BABC003DCAD3 /* ggwave.cpp */,
-				292415232B98BABC003DCAD3 /* header */,
+				292415252B98BABC003DCAD3 /* ggwave.h */,
 				2924151F2B98BABC003DCAD3 /* LICENSE */,
 				292415202B98BABC003DCAD3 /* gf.hpp */,
 				292415212B98BABC003DCAD3 /* rs.hpp */,
@@ -238,22 +238,6 @@
 				292415182B98BAA5003DCAD3 /* Info.plist */,
 			);
 			path = GgwaveExample;
-			sourceTree = "<group>";
-		};
-		292415232B98BABC003DCAD3 /* header */ = {
-			isa = PBXGroup;
-			children = (
-				292415242B98BABC003DCAD3 /* ggwave */,
-			);
-			path = header;
-			sourceTree = "<group>";
-		};
-		292415242B98BABC003DCAD3 /* ggwave */ = {
-			isa = PBXGroup;
-			children = (
-				292415252B98BABC003DCAD3 /* ggwave.h */,
-			);
-			path = ggwave;
 			sourceTree = "<group>";
 		};
 		2924152F2B98BAD7003DCAD3 /* SourceTesting */ = {
